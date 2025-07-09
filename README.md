@@ -58,7 +58,7 @@
 
 ### 📄 CV & Contact
 
-- 📄 [Download my CV](https://your-cv-link.com)
+- 📄 [Download my CV]([https://your-cv-link.com](https://drive.google.com/file/d/1GXPmwj3PaKh1hm0zZ5gld4P5XoFoo8l8/view?usp=sharing))
 - 📬 Email me: **phamminhhieu01082003@gmail.com**
 - 📍 Based in: **Tay Ho, Hanoi, Vietnam**
 
